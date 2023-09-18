@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.notion.so/Wooyong-Jeong-aa90a145d0b34f729be5fa519ecb8c6e" target="_blank"><img src="https://img.shields.io/badge/Woo's Notion?style=plastic&logo=notion&logoColor=#000000"/></a>
+
+
