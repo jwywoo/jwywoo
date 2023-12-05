@@ -4,8 +4,11 @@
   <h3>Tech Stacks</h3>
   <h3>Blog and Portfolio</h3>
   <h3>Co-Projects</h3>
-  <a href="https://www.github.com/RizzPick">RizzPick</a>
-  <a href="https://www.github.com/jwywoo/TownAssembly">TownAssembly</a>
+  <ol>
+    <li><a href="https://www.github.com/RizzPick">RizzPick</a></li>
+    <li><a href="https://www.github.com/jwywoo/TownAssembly">TownAssembly</a></li>
+  </ol>
+  
   <h3>Stats</h3>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwywoo&layout=compact">
