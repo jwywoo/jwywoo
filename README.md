@@ -3,10 +3,15 @@
 <div>
   <h3>Tech Stacks</h3>
   <h3>Blog and Portfolio</h3>
-  <h3>Co-Projects</h3>
+  <h3>Projects</h3>
+  <h4>Backend</h4>
   <ol>
     <li><a href="https://www.github.com/RizzPick">RizzPick</a></li>
     <li><a href="https://www.github.com/jwywoo/TownAssembly">TownAssembly</a></li>
+  </ol>
+  <h4>AI</h4>
+  <ol>
+    <li><a href="https://github.com/users/jwywoo/projects/9/views/1">KAKAO Tech - Generative AI</a></li>
   </ol>
   
   <h3>Stats</h3>
