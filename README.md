@@ -1,10 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Wooyong%20Jeong(Woo)" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <div>
-  
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/jwywoo" width="600" height="300"/>
+  <div>
+    <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/jwywoo"
+      width="600"
+      height="300"
+    />
   </a>
+  </div>
   
   <h3>Tech Stacks</h3>
   <h3>Blog and Portfolio</h3>
