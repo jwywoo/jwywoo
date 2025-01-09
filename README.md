@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
 
-## Who Am I
+## 🤔 Who Am I
 KOR:
 
 <br>
@@ -12,7 +12,7 @@ ENG:
 
 <br>
 
-## Contact & Blog
+##🌐 Contact & Blog
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jwywoo26@gmail.com)
@@ -22,13 +22,13 @@ ENG:
 </div>
 <br>
 
-## Skills
+## 🎯 Skills
 
 <br>
 
-## Tech Stacks & Tools
+## ⚙️ Tech Stacks & Tools
 
-### AI: Generation & Models
+### 🧠 AI: Generation & Models
 
 <div>
   <img alt="fastAPI" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -44,7 +44,7 @@ ENG:
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge">
 </div>
 
-### Backend : Java & Spring
+### ☕ Backend: Java & Spring
 
 <div>
   <img alt="java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge">
@@ -58,7 +58,7 @@ ENG:
 
 </div>
 
-### ETC
+### 🧩 ETC
 
 <div>
   <img alt="colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge">
@@ -75,7 +75,7 @@ ENG:
 
 <br>
 
-## Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -90,7 +90,7 @@ ENG:
 
 <br>
 
-## Quick Tour of My Github
+## 🏡 Quick Tour of My Github
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=jwywoo&show_icons=true" alt="GitHub Stats">
