@@ -60,7 +60,7 @@
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | <div align="center"><img alt="Joing" src="https://avatars.githubusercontent.com/u/183564305?s=96&v=4" width="200" height="200"></div>| <div align="center"><img alt="Joing" src="https://avatars.githubusercontent.com/u/178642647?s=200&v=4" width="200" height="200"></div>| <div align="center"><img alt="Joing" src="https://avatars.githubusercontent.com/u/146961900?s=200&v=4" width="200" height="200"></div>|
 |기발한 기획과 트렌드 분석으로 좋은 영상을 만들고 싶은 크리에이터와 자신의 새로운 아이디어를 영상으로 선보이고 싶은 기획자를 위한 매칭 플랫폼 **Joing** | 데이트 계획을 세우기 어려운 사용자, 반복적인 데이트에 지친 커플, 또는 관계 초기 단계의 사람들을 위한 데이트 활동 생성 서비스 **HowAbout**|단순한 프로필과 자기소개만으로 부족한 데이팅 서비스에 지친  사용자를 위한 데이트 계획 또한 매력이 될 수 있는 데이팅 서비스 **RizzPick**|
-| ♐ [프로젝트 전체 저장소](https://github.com/KTB-6-Joing) \| ♐ [구현 기능 저장소](https://github.com/KTB-6-Joing/joing-genai-server) | ♐ [프로젝트 전체 저장소](https://github.com/HowAbout) \| ♐ [구현 기능 저장소](https://github.com/HowwAbout/RAG-API) |♐ [프로젝트 전체 저장소](https://github.com/RizzPick/RizzPick-backend) \| 📽️ [시연영상 링크](https://www.youtube.com/watch?v=mR3F03W4qgc&t=11s) |
+| ♐ [프로젝트 전체 저장소](https://github.com/KTB-6-Joing) \| ♐ [구현 기능 저장소](https://github.com/KTB-6-Joing/joing-genai-server) | ♐ [프로젝트 전체 저장소](https://github.com/HowwAbout) \| ♐ [구현 기능 저장소](https://github.com/HowwAbout/RAG-API) |♐ [프로젝트 전체 저장소](https://github.com/RizzPick/RizzPick-backend) \| 📽️ [시연영상 링크](https://www.youtube.com/watch?v=mR3F03W4qgc&t=11s) |
 
 </div>
 
