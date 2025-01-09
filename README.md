@@ -3,7 +3,30 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
 
-## Skills & Tools
+## Who Am I
+KOR:
+
+<br>
+
+ENG:
+
+<br>
+
+## Contact & Blog
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jwywoo26@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyong-jeong-a40718262/)
+  [![Blog](https://img.shields.io/badge/Blog-FF9E0F?logo=tistory&logoColor=white)](https://youcanbeable.tistory.com/)
+
+</div>
+<br>
+
+## Skills
+
+<br>
+
+## Tech Stacks & Tools
 
 ### AI: Generation & Models
 
