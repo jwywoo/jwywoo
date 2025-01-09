@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Wooyong%20Jeong(Woo)" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Wooyong%20Jeong(Woo)" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+</div>
 <div>
-  <div>
+  <div align="center">
     <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/jwywoo"
@@ -25,12 +27,12 @@
   </ol>
   
   <h3>Stats</h3>
-  <div>
+  
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwywoo&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=jwywoo&show_icons=true">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
   </div>
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 
 
 
