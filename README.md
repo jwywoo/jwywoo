@@ -4,15 +4,16 @@
 </div>
 
 ## 🤔 Who Am I
-KOR: 늦더라도 포기하지 않고 꾸준히 변화하는 성장하는 백엔드 & AI 개발자 정우용입니다! 
+KOR: 늦더라도 포기하지 않고 꾸준히 변화하는 성장하는 백엔드 & AI 개발자 정우용입니다!
 
 <br>
 
-ENG: If you're looking for a developer who survives you are looking right at it! This is Wooyong Jeong who never hesitates to change! I was once a Java backend developer but now I'm a backend developer armed with AI backgounds!
+ENG: If you're looking for a developer who survives you are looking right at it! This is Wooyong Jeong who never hesitates to change! I was once a Java backend developer but now I'm a backend developer armed with AI backgrounds!
 
 <br>
 
 ## 🌐 Contact & Blog
+
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jwywoo26@gmail.com)
@@ -20,15 +21,12 @@ ENG: If you're looking for a developer who survives you are looking right at it!
   [![Blog](https://img.shields.io/badge/Blog-FF9E0F?logo=tistory&logoColor=white)](https://youcanbeable.tistory.com/)
 
 </div>
-<br>
-
-## 🎯 Skills
 
 <br>
 
-## ⚙️ Tech Stacks & Tools
+## 🎯 Skills, Tech Stacks & Tools
 
-### 🧠 AI
+### 🧠 AI: LLM Application, RAG, Model Fine-tuning & Serving
 
 <div>
   <img alt="fastAPI" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -44,7 +42,7 @@ ENG: If you're looking for a developer who survives you are looking right at it!
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge">
 </div>
 
-### ☕ Backend
+### ☕ Backend: Web Application Backend, DBA, Deployment, Infra & CI/CD
 
 <div>
   <img alt="java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge">
@@ -57,7 +55,7 @@ ENG: If you're looking for a developer who survives you are looking right at it!
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
 </div>
 
-### 🧩 ETC
+### 🧩 ETC: Coordination, Communication & Version Control
 
 <div>
   <img alt="colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge">
