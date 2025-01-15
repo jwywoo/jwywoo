@@ -28,7 +28,7 @@ ENG: If you're looking for a developer who survives you are looking right at it!
 
 ## ⚙️ Tech Stacks & Tools
 
-### 🧠 AI: Generation & Models
+### 🧠 AI
 
 <div>
   <img alt="fastAPI" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -44,7 +44,7 @@ ENG: If you're looking for a developer who survives you are looking right at it!
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge">
 </div>
 
-### ☕ Backend: Java & Spring
+### ☕ Backend
 
 <div>
   <img alt="java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge">
