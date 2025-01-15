@@ -4,11 +4,11 @@
 </div>
 
 ## 🤔 Who Am I
-KOR: 늦더라도 포기하지 않고 꾸준히 성장하는 백엔드 & AI 개발자 정우용입니다! 
+KOR: 늦더라도 포기하지 않고 꾸준히 변화하는 성장하는 백엔드 & AI 개발자 정우용입니다! 
 
 <br>
 
-ENG: 
+ENG: If you're looking for a developer who survives you are looking right at it! This is Wooyong Jeong who never hesitates to change! I was once a Java backend developer but now I'm a backend developer armed with AI backgounds!
 
 <br>
 
