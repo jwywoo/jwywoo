@@ -55,7 +55,7 @@ ENG: If you're looking for a developer who survives you are looking right at it!
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
 </div>
 
-### 🧩 ETC: Coordination, Communication & Version Control
+### 🧩 ETC: Coordination, Communication, IDE & Version Control
 
 <div>
   <img alt="colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge">
