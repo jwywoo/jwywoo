@@ -19,6 +19,7 @@ ENG: If you're looking for a developer who survives you are looking right at it!
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jwywoo26@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyong-jeong-a40718262/)
   [![Blog](https://img.shields.io/badge/Blog-FF9E0F?logo=tistory&logoColor=white)](https://youcanbeable.tistory.com/)
+  [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=white)](https://youcanbeable.tistory.com/)
 
 </div>
 
